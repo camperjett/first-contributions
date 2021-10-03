@@ -70,6 +70,7 @@ tayo360
 - [Vivek Shah](https://github.com/viveknshah)
 - [aeron34](https://github.com/aeron34)
 - [sehgxl](https://github.com/sehgxl)
+- [sobi](https://github.com/SobiJain)
 - [Rishi Kashyap](https://github.com/incarnate87)
 - [Cara](https://github.com/CNichole726)
 - [Yash](https://github.com/YasshhYadav)
